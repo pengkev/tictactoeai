@@ -1,5 +1,3 @@
-# tictactoeai
-
 # Tic-Tac-Toe AI
 
 This is a simple Tic-Tac-Toe game implemented in Python using Pygame, featuring an AI opponent that uses the Minimax algorithm. The game allows you to play against the computer with the computer making optimal moves to ensure a challenging gameplay experience.
